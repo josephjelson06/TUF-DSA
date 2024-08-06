@@ -1,4 +1,4 @@
-package Arrays.Medium;
+// package Arrays.Medium;
 
 import java.util.*;
 
